@@ -25,7 +25,7 @@
 	
 	2. 实验权重：weights/Gold-YOLO-Flatten.pt
 	
-	3. 实验效果：![Gold-YOLO-Flatten](images\image-20231129133227461.png)
+	3. 实验效果：![Gold-YOLO-Flatten](images/image-20231129133227461.png)
 	
 
 
