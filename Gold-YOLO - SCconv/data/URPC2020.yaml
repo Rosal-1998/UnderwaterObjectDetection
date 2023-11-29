@@ -1,0 +1,13 @@
+# COCO 2017 dataset http://cocodataset.org
+train: ./data/URPC2020/images/test # 118287 images
+val: ./data/URPC2020/images/test   # 5000 images
+test: ./data/URPC2020/images/test 
+anno_path: ./data/URPC2020/test.json
+
+# number of classes
+nc: 4
+# whether it is coco dataset, only coco dataset should be set to True.
+is_coco: True
+
+# class names
+names: [ 'holothurian', 'starfish', 'echinus', 'scallop']

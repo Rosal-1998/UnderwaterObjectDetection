@@ -39,4 +39,12 @@
 
       ![Gold-YOLO-SCconv](images/image-20231129135125361.png)
       
-      
+<details>
+<summary>更新日志</summary>
+
+- 2023-11-29:
+	- [x] 上传模型
+	- [x] 更新文档
+	- [ ] 其余模型
+
+</details>
