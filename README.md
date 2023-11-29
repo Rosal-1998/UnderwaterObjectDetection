@@ -14,7 +14,7 @@
 数据集相对路径：
 
 DUO
-│
+|
 ├── images
 │ ├── train
 │ └── test
