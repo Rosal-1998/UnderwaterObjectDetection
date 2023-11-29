@@ -16,7 +16,7 @@
 	- images
 		- train
 		- test
-	-labels
+	- labels
 		- train
 		- test
 
